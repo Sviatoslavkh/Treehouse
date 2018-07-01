@@ -1,0 +1,23 @@
+{
+  "name": "Treehouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sviatoslavkh/Treehouse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sviatoslavkh/Treehouse/issues"
+  },
+  "homepage": "https://github.com/Sviatoslavkh/Treehouse#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
